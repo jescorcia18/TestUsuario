@@ -1,0 +1,17 @@
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\bin\Debug\net7.0\TestUsuarios.Lib.deps.json
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\bin\Debug\net7.0\TestUsuarios.Lib.dll
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\bin\Debug\net7.0\TestUsuarios.Lib.pdb
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\bin\Debug\net7.0\TestUsuarios.Models.dll
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\bin\Debug\net7.0\TestUsuarios.Models.pdb
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\obj\Debug\net7.0\TestUsuarios.Lib.csproj.AssemblyReference.cache
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\obj\Debug\net7.0\TestUsuarios.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\obj\Debug\net7.0\TestUsuarios.Lib.AssemblyInfoInputs.cache
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\obj\Debug\net7.0\TestUsuarios.Lib.AssemblyInfo.cs
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\obj\Debug\net7.0\TestUsuarios.Lib.csproj.CoreCompileInputs.cache
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\obj\Debug\net7.0\TestUsuarios.Lib.csproj.CopyComplete
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\obj\Debug\net7.0\TestUsuarios.Lib.dll
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\obj\Debug\net7.0\refint\TestUsuarios.Lib.dll
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\obj\Debug\net7.0\TestUsuarios.Lib.pdb
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\obj\Debug\net7.0\ref\TestUsuarios.Lib.dll
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\bin\Debug\net7.0\TesUsuarios.Data.dll
+D:\PRUEBA MEXICANA\TestUsuarios.Lib\bin\Debug\net7.0\TesUsuarios.Data.pdb
